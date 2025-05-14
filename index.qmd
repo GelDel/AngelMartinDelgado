@@ -5,22 +5,22 @@ title: "Hi, I'm Angel Delgado"
 
 ::: {.columns}
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![](https://drive.google.com/file/d/14yXyLZVrsU5pBHOCmfDROEKqUtnmPPv8/view?usp=drive_link){width=100% style="border-radius: 50%;"}
 :::
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I'm a leader with over 28 years of team building experience in consumer product management and national sales roles. Demonstrated success in growing revenue, building relationships, bringing new products to market, improving customer engagement, and building dynamic experiences for national brands.
 :::
 :::
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
+With over 28 years of leadership in consumer product management and national sales, I have a strong history of building successful teams. My career has been marked by a demonstrated ability to grow revenue, forge lasting relationships, and introduce new products to the market effectively. I thrive on enhancing customer engagement and creating dynamic experiences for renowned national brands. Currently, as Principal at Vaquero Asset Management and Consultancy, I focus on improving client operational performance in merchandising and sales. I am dedicated to leveraging my expertise to drive impactful results and foster growth.
 
 
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mailto:Angel@VAMCCO.com) or connect on [LinkedIn](https://www.linkedin.com/in/angel-delgado-66b3308).
 
 ---
 

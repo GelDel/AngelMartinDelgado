@@ -20,36 +20,57 @@ Results-oriented marketing and analytics professional with a strong foundation i
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+-   **Programming Languages:** R, Python, SQL, etc.\
+-   **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
 
 # Education
 
-| Degree                             | Year                          | College / Department                 | Institution         |
-| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+| Degree | Year | College / Department | Institution |
+|----|----|----|----|
+| MS Digital Marketing | 2025 | Singelyn Graduate School of Business | Cal Poly Pomona |
+| MBA | 2003 | Marshall School of Business | USC |
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Principal, VAMCCO
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+*\[2015 – Present*
 
----
+-   Improving US and Mexican client operational performance in merchandising and sales through KPI management, implementation of business intelligence tools, and disciplined vendor management.
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Director of Purchasing and Sales, Ariva LTD
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+*\[2021 – 2022\]*
 
----
+-   Implemented API integrations and controls including Shopify, Channel Advisor, and Microsoft AX ERP. Won authorization for several national brands across several sectors augmenting the company’s online business across all sales platforms. Led the business’s Operational, Sales, and Purchasing functions through a structural change.
+
+### Director of Product Management, Newegg.com
+
+*\[2021 – 2022\]*
+
+-   Reestablished the consumer electronics category including the TV, Video and Projector and related product groups by cultivating top brand relationships, upgrading category merchandising, and optimizing marketing of brand and marketplace seller offers on the e-commerce platform.
+-   Improved partnership programs with Samsung, LG, HP, Epson, and other top brands to lower net acquisition cost and increase margins.
+-   Leveraged Adobe Analytics and collaborated with brands to create optimized product pages for improved SEO Organic search results and customer engagement.
+-   Directing content creation and category merchandising to enhance customer experience and improve store traffic, engagement, and conversion rates.
+-   Managed investment on SEM, Social, Affiliate, Organic and Email marketing channels to maximize ROI against cost of sales targets.
+-   Competed against top national e-commerce retailers and marketplaces to grow GMV by executing product roadmaps, optimizing marketplace seller performance, and improving customer experience and engagement.
+-   Managed the Home Video domain business unit’s \$200M P&L to reach budgeted goals.
+
+### *Director of Product Management, Curacao*
+
+*\[2008 – 2020\]*
+
+-   Developed strategies and tools to execute multi-category and cross-platform product roadmaps for both brick and mortar and e-commerce businesses consistently ahead of schedule and under budget.
+-   Partnered with the finance team to segment customers and target them with qualified products and services based on demographics, purchase history, and current credit profile.
+-   Collaborated with marketing field resources to understand customer needs and opportunities to develop targeted marketing programs consisting of sports, concerts, and community outreach components to drive sales.
+-   Negotiated sourcing programs to minimize vendor net acquisition costs and inventory risk, while maximizing vendor’s ROI.
+-   Forged partnerships with global brands across diverse consumer product groups including Samsung, LG, HP, Apple, Google, Microsoft, Sony, Nintendo, Electrolux, GE, Whirlpool, and Charter Communications.
+-   Designed, sourced, and implemented large scale merchandising solutions for new product introductions and brand showcases.
+-   Produced and presented sales strategies, marketing programs, and new business proposals to C level.
+-   Partnered with global brands to customize and tailor national demand generation strategies to our regional market and customer base.
+-   Directed development of new business opportunities and launch of new products and services by working with a cross functional team of vendors, IT, customer service, operations, and sales teams.
+-   Led the Mobility and Electronics product management group consisting of Computers, Mobile Phones, TV, Audio and Video Games and related accessories.
+-   Managed a staff of 18 that were trained to serve as customer solutions providers.
+-   Mentored new hires from all management levels and recruited new talent through various events.
+
+------------------------------------------------------------------------
